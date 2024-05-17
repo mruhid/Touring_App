@@ -59,4 +59,7 @@ Before you begin, ensure you have met the following requirements:
 
  Click on the index.html file for open application
 
+ #### Owner
+ Ruhid Mammadzade
+
 
